@@ -45,7 +45,7 @@ Estimated coins in existence after end of pow 4.068.900.000 (very very rough est
 
 # Bootstrap files / chain states
 
-* LanaCoin mainnet blockchain snapshots/chain states/bootstrap.dat: (pCloud: http://pc.cd/8p8otalK )
+* LanaCoin mainnet blockchain snapshots/chain states/bootstrap.dat: (pCloud: https://e.pcloud.link/publink/show?code=kZ3zdeZRX5fJhF63k4G0xo1d7qc8VVsejm7 )
 
 * LanaCoin mainnet blockchain snapshots/chain states/bootstrap.da (MS OneDrive https://1drv.ms/u/s!AklKAv1s6c88dxvfcYgwPfvJj6I?e=a6Jnpw )
 
