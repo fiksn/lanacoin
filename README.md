@@ -117,8 +117,9 @@ labeled 'stale'.
 
 - Instagram: https://www.instagram.com/lanacoin.cryptocurrency/
 
-- Youtube: https://www.youtube.com/channel/UC23mCMIR7ecKm3cnbOl1laA
--  Twitch: 
+- Youtube: https://www.youtube.com/channel/UC23mCMIR7ecKm3cnbOl1laA](https://www.youtube.com/@LanaCoin-LANA
+  
+- Twitch: https://www.twitch.tv/lanacoin
 
 - Lbry.tv: https://lbry.tv/$/invite/@LanaCoin:2
 
