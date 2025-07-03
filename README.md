@@ -49,7 +49,7 @@ Estimated coins in existence after end of pow 4.068.900.000 (very very rough est
 
 * LanaCoin mainnet blockchain snapshots/chain states/bootstrap.da (MS OneDrive https://1drv.ms/u/s!AklKAv1s6c88dxvfcYgwPfvJj6I?e=a6Jnpw )
 
-* LanaCoin testnet blockchain snapshots/chain states/bootstrap.dat (pCloud: http://u.pc.cd/HDOitalKif - you need testnet $LANA email developer contact or ask on Lana telegram) 
+* LanaCoin testnet blockchain snapshots/chain states/bootstrap.dat (pCloud: http://u.pc.cd/HDOitalKif](https://e.pcloud.link/publink/show?code=kZrzdeZ3U10VHbPCH55fmz0N5sdA7qYF32X  - you need testnet $LANA email developer contact or ask on Lana telegram) 
 
 # Developer contacts
 
@@ -95,7 +95,7 @@ labeled 'stale'.
 
 - Web: https://lanacoin.com/
 
-- Web2: https://lanacoin.org
+- Web2: https://lanacoin.net
 
 - Community web: https://lanacoin.org
 
@@ -118,6 +118,7 @@ labeled 'stale'.
 - Instagram: https://www.instagram.com/lanacoin.cryptocurrency/
 
 - Youtube: https://www.youtube.com/channel/UC23mCMIR7ecKm3cnbOl1laA
+-  Twitch: 
 
 - Lbry.tv: https://lbry.tv/$/invite/@LanaCoin:2
 
@@ -212,6 +213,7 @@ labeled 'stale'.
 - https://www.lana8wonder.com/
 - https://www.offlinelana.org/
 - https://safelana.com/
+- https://100million.fun
 
 
 
